@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to KK FUNDA YOUTUBE CHANNEL NEW BATCH ON JAN 25th At 5.30pm AWS and DevOps and SRE, Free Series also will update </h1>
+    <h1>🚀 Welcome to KK FUNDA YOUTUBE CHANNEL NEW BATCH ON JAN 25th At 8pm AWS & DevOps </h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
