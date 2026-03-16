@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://13.203.66.156:9949/repository/maven-releases/</url>  
+	      <url>http://65.0.108.100:9949/repository/maven-releases/</url>  
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://13.203.66.156:9949/repository/maven-snapshots/</url>
+	      <url>http://65.0.108.100:9949/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
