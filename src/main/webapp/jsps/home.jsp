@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to KK FUNDA YOUTUBE CHANNEL NEW BATCH ON JAN 25th At 8pm Please all are join </h1>
+    <h1>🚀 Welcome to KK FUNDA YOUTUBE CHANNEL NEW BATCH ON JAN 25th At 8pm please join the session at that time </h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
