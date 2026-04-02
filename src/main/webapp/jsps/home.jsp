@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to KK FUNDA YOUTUBE CHANNEL NEW BATCH ON JAN 25th START AT 8PM AWS & DevOps,Free for 5 days classes </h1>
+    <h1>🚀 Welcome to KK FUNDA YOUTUBE CHANNEL NEW BATCH ON JAN 25th START AT 8PM AWS </h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
