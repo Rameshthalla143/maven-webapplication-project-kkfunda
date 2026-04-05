@@ -35,7 +35,7 @@ tools
         sh """
             curl -u admin:kkfunda \
             --upload-file /var/lib/jenkins/workspace/declarative-pipeline-jio/target/maven-web-application.war \
-            "http://13.206.88.20:9090/manager/text/deploy?path=/maven-web-application&update=true"
+            "http://3.111.171.118:9090/manager/text/deploy?path=/maven-web-application&update=true"
         """
 
           }
